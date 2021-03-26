@@ -8,3 +8,4 @@ jump 25
 jump 30
 jump 32
 jump 33
+jump 34
