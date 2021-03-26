@@ -2,3 +2,4 @@ jump 1
 jump 2
 jump 3
 jump 25
+jump 30
