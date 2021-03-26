@@ -2,4 +2,6 @@ test 1
 test master 2
 test 2 devel
 test 3 devel
+test 4 devel
+test 5 devel
 test 4
